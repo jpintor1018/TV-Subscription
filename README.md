@@ -7,6 +7,7 @@ using namespace std;
 int main()
 
 {
+
     char choice1, choice2;
     double account, code, prechannels, connections, fee;
 
@@ -65,6 +66,8 @@ int main()
         cout<<"Premium channels fee:    $"<<prechannels*50<<endl;
         cout<<"Total is:                $"<<15.00+fee+prechannels*50.00<<endl;
     }
+    
     return 0;
+    
     }
 
