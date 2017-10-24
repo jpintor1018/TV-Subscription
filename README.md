@@ -1,10 +1,11 @@
 # TV-Subscription
 
-
-
 #include <iostream>
+
 using namespace std;
+
 int main()
+
 {
     char choice1, choice2;
     double account, code, prechannels, connections, fee;
